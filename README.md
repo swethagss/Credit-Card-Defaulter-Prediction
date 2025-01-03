@@ -91,7 +91,9 @@ ROC/AUC
 
 
 ## Deployment
-Deploy the model using a Streamlit app `(app.py)`. The app allows users to input various data about credit card holders to predict whether a customer will default or not. To use the app, follow the link provided below:
+Deploy the model using a Streamlit app `(app.py)`. The app allows users to input various data about credit card holders to predict whether a customer will default or not. 
+
+https://github.com/user-attachments/assets/4e535a34-eec5-4cc1-8eb9-5a4901bafcb4
 
 
 ## Conclusion

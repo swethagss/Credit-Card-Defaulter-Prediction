@@ -78,6 +78,18 @@ The **XGBoost** model, optimized with **Optuna**, outperformed the baseline with
 
 In summary, the **XGBoost model**, with its higher AUC and solid Gini Coefficient, emerged as the superior model, providing better predictive accuracy and class discrimination compared to the baseline Logistic Regression model.
 
+-Base Model Classification Report
+<img width="443" alt="Screenshot 2025-01-03 at 9 50 52 PM" src="https://github.com/user-attachments/assets/588ebc0d-1e82-49b7-bf2c-564fcbb538d5" />
+                                                               
+
+Classification Report
+<img width="438" alt="Screenshot 2025-01-03 at 9 51 20 PM" src="https://github.com/user-attachments/assets/cf8a5dd6-0d78-4572-a4a3-5e30cb515718" />
+
+ROC/AUC
+<img width="605" alt="Screenshot 2025-01-03 at 9 51 28 PM" src="https://github.com/user-attachments/assets/d9619bcd-2664-4483-9761-1e3d79c6eee2" />
+
+
+
 ## Deployment
 Deploy the model using a Streamlit app `(app.py)`. The app allows users to input various data about credit card holders to predict whether a customer will default or not. To use the app, follow the link provided below:
 

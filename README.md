@@ -2,6 +2,9 @@
 
 This repository contains a Jupyter Notebook for predicting credit card defaults using machine learning models. The analysis includes data preprocessing, exploratory analysis, model training, evaluation, and deployment.
 
+![Surviving-a-Credit-Card-Default](https://github.com/user-attachments/assets/f705c3c6-e889-4163-af89-b4ac956070af)
+
+
 ---
 
 ## Table of Contents
